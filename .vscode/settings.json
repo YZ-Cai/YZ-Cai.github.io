@@ -23,5 +23,15 @@
   "less.validate": false,
   // Stylint extension settings
   "stylelint.snippet": ["css", "less", "postcss", "scss"],
-  "stylelint.validate": ["css", "less", "postcss", "scss"]
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "scss"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#2C3009",
+    "titleBar.activeBackground": "#3E430C",
+    "titleBar.activeForeground": "#FAFCED"
+  }
 }

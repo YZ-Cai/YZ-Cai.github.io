@@ -9,13 +9,15 @@ permalink: /
 {: .prompt-tip } -->
 
 
-I am a fourth-year PhD candidate at School of Data Science, Fudan University, advised by Dr. [Weiguo Zheng](https://weiguozheng.github.io/).
+I am a fourth-year PhD candidate at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Dr. [Weiguo Zheng](https://weiguozheng.github.io/).
 I obtained a B.S. in Data Science from Fudan University in 2021.
 My research focuses on graph-related information retrieval, including
 
 - Graph-based vector similarity search (approximate nearest neighbor search, ANNS)
-- Graph-based retrieved-augmented generation (RAG)
+- Graph-based retrieval-augmented generation (RAG)
 - Graph data query processing
+
+I expect to graduate in July 2026.
 
 ---
 
@@ -37,8 +39,8 @@ To appear in the ACM SIGMOD International Conference on Management of Data. <spa
 
 **CSPG: Crossing Sparse Proximity Graphs for Approximate Nearest Neighbor Search.**  
 Ming Yang, <u>Yuzheng Cai</u>, and Weiguo Zheng.  
-To appear in the Thirty-eighth Annual Conference on Neural Information Processing Systems. <span style="color: #1172bf;">(NeurIPS 2024)</span>  
-[[code]](https://github.com/PUITAR/CSPG)
+Thirty-eighth Annual Conference on Neural Information Processing Systems. <span style="color: #1172bf;">(NeurIPS 2024)</span>  
+[[link]](https://neurips.cc/virtual/2024/poster/93606) [[pdf]](https://openreview.net/pdf?id=ohvXBIPV7e) [[code]](https://github.com/PUITAR/CSPG) [[slides]](https://neurips.cc/media/neurips-2024/Slides/93606.pdf)
 
 **Enhancing Link Prediction Based on Simple Path Graphs.**  
 Zhiren Li, <u>Yuzheng Cai</u>, and Hongwei Feng.  
@@ -48,7 +50,7 @@ GDMA workshop, International Conference on Database Systems for Advanced Applica
 **HERO: A Hierarchical Set Partitioning and Join Framework for Speeding up the Set Intersection Over Graphs.**  
 Boyu Yang, Weiguo Zheng, Xiang Lian, <u>Yuzheng Cai</u>, X. Sean Wang.  
 ACM SIGMOD International Conference on Management of Data. <span style="color: #1172bf;">(SIGMOD 2024)</span>  
-[[link]](https://dl.acm.org/doi/abs/10.1145/3639284)
+[[link]](https://dl.acm.org/doi/abs/10.1145/3639284) [[code]](https://github.com/HEROAndSIBTree/HEROFramework)
 
 **Towards Generating Hop-constrained s-t Simple Path Graphs.**  
 <u>Yuzheng Cai</u>, Siyuan Liu, Weiguo Zheng, Xuemin Lin.  

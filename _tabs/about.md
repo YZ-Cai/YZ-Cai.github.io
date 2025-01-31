@@ -53,6 +53,11 @@ Boyu Yang, Weiguo Zheng, Xiang Lian, <u>Yuzheng Cai</u>, X. Sean Wang.
 ACM SIGMOD International Conference on Management of Data. <span style="color: #990000;">(SIGMOD 2024)</span>  
 [[link]](https://dl.acm.org/doi/abs/10.1145/3639284) [[code]](https://github.com/HEROAndSIBTree/HEROFramework)
 
+**Enhancing Link Prediction Based on Simple Path Graphs.**  
+Zhiren Li, <u>Yuzheng Cai</u>, and Hongwei Feng.  
+GDMA workshop, International Conference on Database Systems for Advanced Applications. <span style="color: #990000;">(DASFAA 2024)</span>  
+[[link]](https://link.springer.com/chapter/10.1007/978-981-96-0914-7_25) [[slides]](https://drive.google.com/file/d/1DmFqeakTzJqgzhWxpohL7oXXSP68Qau8/view)
+
 **Towards Generating Hop-constrained s-t Simple Path Graphs.**  
 <u>Yuzheng Cai</u>, Siyuan Liu, Weiguo Zheng, Xuemin Lin.  
 ACM SIGMOD International Conference on Management of Data. <span style="color: #990000;">(SIGMOD 2023)</span>    

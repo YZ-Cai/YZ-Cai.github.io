@@ -12,11 +12,11 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'   
-  url: 'https://www.linkedin.com/in/yuzheng-cai'  # 替换成你的 LinkedIn 主页
+  url: 'https://www.linkedin.com/in/yuzhengcai'
 
 - type: scholar
   icon: 'fas fa-graduation-cap'
-  url: 'https://scholar.google.com/citations?user=YOUR_ID'  # 替换成你的 Google Scholar ID
+  url: 'https://scholar.google.com/citations?user=YOUR_ID'
 
 - type: rss
   icon: "fas fa-rss"

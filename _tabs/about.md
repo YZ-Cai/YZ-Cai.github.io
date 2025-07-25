@@ -39,7 +39,8 @@ I expect to graduate in July 2026.
 <u>Yuzheng Cai*</u>, Zhenyue Guo*, Yiwen Pei, Wanrui Bian, and Weiguo Zheng.   
 Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics.   
 <span style="color: #0056b2;">**ACL 2025 findings.**</span> 
-[[pdf]](https://arxiv.org/pdf/2412.15272) 
+[[link]](https://aclanthology.org/2025.findings-acl.163/) 
+[[pdf]](https://aclanthology.org/2025.findings-acl.163.pdf) 
 [[code]](https://github.com/YZ-Cai/SimGRAG) <span>![GitHub Repo stars](https://img.shields.io/github/stars/YZ-Cai/SimGRAG?style=social)</span>
 
 **Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search.**  
@@ -47,6 +48,7 @@ Proceedings of the 63rd Annual Meeting of the Association for Computational Ling
 ACM SIGMOD International Conference on Management of Data.   
 <span style="color: #0056b2;">**SIGMOD 2025.**</span> 
 [[link]](https://doi.org/10.1145/3698822) 
+[[poster]](https://drive.google.com/file/d/1jGAgrHEz2n0qqQC4lRK8qLL_r0oe_gI3/view) 
 [[code]](https://github.com/YZ-Cai/Unified-Navigating-Graph) <span>![GitHub Repo stars](https://img.shields.io/github/stars/YZ-Cai/Unified-Navigating-Graph?style=social)</span>
 
 **Hi-PNG: Efficient Interval-Filtering ANNS via Hierarchical Interval Partition Navigating Graph.**   
